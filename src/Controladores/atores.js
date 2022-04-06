@@ -1,4 +1,4 @@
-const atores = require('../Dados/atores')
+const atores = require('../bancoDeDados')
 
 const areas = ['Antagonista', 'Protagonista', 'Coadjuvante', 'Diretor(a)', 'Ex-presidente', 'Ex-primeira-dama']
 

@@ -1,0 +1,24 @@
+{
+  "name": "api_rest-atores-",
+  "version": "1.0.0",
+  "description": "Aplicando os conhecimentos sobre Api Rest\r O pacote utilizado nesse caso foi o 'Express'.<br>\r Neste caso em específico os dados se consistem numa lista de atores e suas funções.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdelvaneFerreira/API_Rest-Atores-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdelvaneFerreira/API_Rest-Atores-/issues"
+  },
+  "homepage": "https://github.com/AdelvaneFerreira/API_Rest-Atores-#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
