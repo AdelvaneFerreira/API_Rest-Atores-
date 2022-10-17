@@ -22,3 +22,4 @@ roteador.put("/atores/:idconsultado", controle.substituir)
 roteador.delete("/atores/:idconsultado", controle.excluir)
 
 module.exports = roteador
+[[[[[[[[]]]]]]]]
